@@ -62,7 +62,8 @@ This project analyzes social media engagement data to uncover insights into audi
 
 ## 📂 Repository Structure
 - `CSV_DATA/` → Raw and processed datasets.  
-- `Dashboard/` → Power BI dashboards and visualizations.  
+- `Dashboard/` → Power BI dashboards and visualizations.
+-  `Insight_Snapshots/` → Dashboard, Images, and Graphs.
 - `README.md` → Project documentation.  
 
 ---
