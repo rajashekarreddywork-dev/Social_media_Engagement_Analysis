@@ -21,7 +21,7 @@ This project analyzes social media engagement data to uncover insights into audi
 ---
 
 ## 📊 Data Collection
-- Source: **Kaggle – Social Media Sentiments Analysis Dataset**  
+- Source: **Pratinik Infotech - Social Media Sentiments Analysis Dataset**  
 - Includes: text, timestamps, hashtags, countries, likes, retweets.  
 - Platforms analyzed: **Facebook, TikTok, Twitter, Instagram, Snapchat**.  
 
@@ -68,7 +68,7 @@ This project analyzes social media engagement data to uncover insights into audi
 ---
 
 ## 🙌 Acknowledgments
-- Dataset: Kaggle – Social Media Sentiments Analysis.  
+- Dataset: Pratinik Infotech - Social Media Sentiments Analysis.  
 - Tools: Python, Power BI, SQL.  
 - Author: **T Rajashekar Reddy**  
 
